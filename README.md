@@ -39,10 +39,10 @@
 
 | 项目名称 | 项目描述 | 技术栈 |
 |----------|----------|--------|
-| **[物联网智能家居](https://github.com/Hanami1216/iot-smart-home)** | 基于 ESP32 和 React 的全栈智能家居系统 | C++、React、MQTT、Node.js |
-| **[跨平台健身 App](https://github.com/Hanami1216/fitness-app)** | Flutter 前端 + Spring Boot 后端的健身应用 | Flutter、Spring Boot、Firebase |
-| **[嵌入式 RTOS 系统](https://github.com/Hanami1216/custom-rtos)** | 为 ARM Cortex-M 设计的轻量级实时操作系统 | C、ARM 汇编 |
-| **[电商微服务平台](https://github.com/Hanami1216/ecommerce-platform)** | 使用 Kubernetes 管理的微服务电商平台 | React、Node.js、MongoDB、Kubernetes |
+| **[工厂企业资源管理系统](https://github.com/Hanami1216/Hanami-ERP)** | 实现进销存以及财务的工厂企业资源管理系统 | Vue + Spring boot  |
+| **[女性健康监控系统](https://github.com/Hanami1216/Hanami-mooncare)** | Flutter 前端 + Spring Boot 后端的健身应用 | Flutter、Spring Boot、Firebase |
+| **[电商微服务平台](https://github.com/Hanami1216/Hanami-mall)** | 全栈 Docker-compose的电商平台 | React、Vue、MongoDB、Spring Boot |
+| **[音乐DSP控制APP](https://github.com/Hanami1216/Hanami-MUSICLink)** | 基于蓝牙BLE实现音频设备控制APP | Flutter |
 
 ## 📈 GitHub 数据统计
 
@@ -54,15 +54,15 @@
 
 ## 🌱 当前学习方向
 
-- WebAssembly：提升 Web 应用性能  
-- ROS：机器人操作系统开发  
-- Rust 边缘计算与嵌入式系统实践  
+- Flutter：
+- 微服务：
+- AI: 
 
 ## 📫 联系我
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![Blog](https://img.shields.io/badge/-个人博客-FF5722?logo=blogger&logoColor=white)](https://yourblog.com)
+[![Blog](https://img.shields.io/badge/-个人博客-FF5722?logo=blogger&logoColor=white)](https://hanami-docs.vercel.app/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hanami1216&label=访问次数&color=0e75b6&style=flat" alt="Hanami1216" /> 
