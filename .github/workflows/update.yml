@@ -31,8 +31,8 @@ jobs:
         GIT_USER: "GitHub Actions"
         GIT_EMAIL: "action@github.com"
       run: |
-        git config user.name "${GIT_USER}"
-        git config user.email "${GIT_EMAIL}"
+        git config user.name "Hanami1216"
+        git config user.email "yoki001216@gmail.com"
         git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
         git checkout master
         git add ./README.md
