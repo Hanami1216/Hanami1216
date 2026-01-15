@@ -9,7 +9,7 @@
 
 ## 🛠️ 技术栈
 
-### � **前端开发**
+### 🎨 **前端开发**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -28,6 +28,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white)
 ![IOS](https://img.shields.io/badge/-IOS-3DDC84?logo=IOS&logoColor=white)
+
 ### 🔧 **嵌入式开发**
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 ![STM32](https://img.shields.io/badge/-STM32-03234B?logo=stmicroelectronics&logoColor=white)
@@ -47,6 +48,12 @@
 | **[女性健康监控系统](https://github.com/Hanami1216/Hanami-mooncare)** | Flutter 前端 + Spring Boot 后端的健身应用 | Flutter、Spring Boot、Firebase |
 | **[电商微服务平台](https://github.com/Hanami1216/Hanami-mall)** | 全栈 Docker-compose的电商平台 | React、Vue、MongoDB、Spring Boot |
 | **[音乐DSP控制APP](https://github.com/Hanami1216/Hanami-MUSICLink)** | 基于蓝牙BLE实现音频设备控制APP | Flutter |
+
+<!-- START_SECTION:top_repos -->
+<!-- END_SECTION:top_repos -->
+
+<!-- START_SECTION:recent_repos -->
+<!-- END_SECTION:recent_repos -->
 
 ## 📈 GitHub 数据统计
 
@@ -70,3 +77,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hanami1216&label=访问次数&color=0e75b6&style=flat" alt="Hanami1216" /> 
 </p>
+
+<!-- START_SECTION:footer -->
+<!-- END_SECTION:footer -->
