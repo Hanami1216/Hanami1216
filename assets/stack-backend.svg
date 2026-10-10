@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="195" viewBox="0 0 1160 195" role="img" aria-label="Backend technology stack">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10162D"/><stop offset="1" stop-color="#101F32"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#86B5FF"/><stop offset="1" stop-color="#79E3D4"/></linearGradient>
+  <pattern id="grid" width="33" height="33" patternUnits="userSpaceOnUse"><path d="M33 0H0V33" fill="none" stroke="#8A97CC" stroke-opacity=".07"/></pattern>
+</defs>
+<rect x="1.5" y="1.5" width="1157" height="192" rx="25" fill="url(#bg)" stroke="#86B5FF" stroke-opacity=".35" stroke-width="2"/>
+<rect x="2" y="2" width="1156" height="191" rx="24" fill="url(#grid)"/>
+<rect x="40" y="29" width="6" height="33" rx="3" fill="url(#line)"/>
+<text x="61" y="56" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="30" fill="#F2F5FF">Backend</text>
+<text x="41" y="87" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#96A5C4">Languages / services / API frameworks</text>
+<rect x="1042" y="29" width="76" height="33" rx="16.5" fill="#86B5FF" fill-opacity=".1" stroke="#86B5FF" stroke-opacity=".4"/>
+<text x="1080" y="51" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="14" fill="#86B5FF">01 / 06</text>
+<g transform="translate(40.0 111)">
+  <rect width="128.1" height="53" rx="13" fill="#F28C54" fill-opacity=".095" stroke="#F28C54" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#F28C54" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#F28C54">Ja</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">Java 21</text>
+</g><g transform="translate(178.1 111)">
+  <rect width="169.3" height="53" rx="13" fill="#7CC75A" fill-opacity=".095" stroke="#7CC75A" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#7CC75A" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#7CC75A">Sp</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">Spring Boot</text>
+</g><g transform="translate(357.4 111)">
+  <rect width="85.0" height="53" rx="13" fill="#66D9EC" fill-opacity=".095" stroke="#66D9EC" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#66D9EC" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#66D9EC">Go</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">Go</text>
+</g><g transform="translate(452.4 111)">
+  <rect width="86.9" height="53" rx="13" fill="#68BDF2" fill-opacity=".095" stroke="#68BDF2" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#68BDF2" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#68BDF2">Gi</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">Gin</text>
+</g><g transform="translate(549.3 111)">
+  <rect width="97.2" height="53" rx="13" fill="#C6B4FF" fill-opacity=".095" stroke="#C6B4FF" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#C6B4FF" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#C6B4FF">Rs</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">Rust</text>
+</g><g transform="translate(656.5 111)">
+  <rect width="97.2" height="53" rx="13" fill="#BEA9F8" fill-opacity=".095" stroke="#BEA9F8" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#BEA9F8" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#BEA9F8">Ax</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">Axum</text>
+</g><g transform="translate(763.7 111)">
+  <rect width="117.8" height="53" rx="13" fill="#EAC879" fill-opacity=".095" stroke="#EAC879" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#EAC879" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#EAC879">Py</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">Python</text>
+</g><g transform="translate(891.5 111)">
+  <rect width="128.1" height="53" rx="13" fill="#67DECE" fill-opacity=".095" stroke="#67DECE" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#67DECE" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#67DECE">Fa</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">FastAPI</text>
+</g>
+</svg>
