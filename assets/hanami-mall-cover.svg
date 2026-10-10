@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-label="Hanami Mall project illustration">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#11162C"/><stop offset="1" stop-color="#101E32"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#C7A1FF"/><stop offset="1" stop-color="#F4C7FA"/></linearGradient>
+<pattern id="grid" width="33" height="33" patternUnits="userSpaceOnUse"><path d="M33 0H0V33" fill="none" stroke="#6374A9" stroke-opacity=".1"/></pattern>
+<clipPath id="clip"><rect width="900" height="320" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="900" height="320" fill="url(#bg)"/><rect width="900" height="320" fill="url(#grid)"/>
+<circle cx="745" cy="137" r="235" fill="#C7A1FF" opacity=".07"/>
+<rect x="1.5" y="1.5" width="897" height="317" rx="22" fill="none" stroke="#C7A1FF" stroke-opacity=".33" stroke-width="3"/>
+<rect x="42" y="43" width="12" height="12" rx="3" fill="url(#accent)"/>
+<text x="67" y="55" font-family="Arial, sans-serif" font-weight="700" font-size="16" letter-spacing="3" fill="#C7A1FF">HANAMI / PROJECT</text>
+<text x="42" y="142" font-family="Arial, sans-serif" font-weight="800" font-size="49" fill="#F2F4FF">Hanami Mall</text>
+<text x="43" y="190" font-family="Arial, 'Noto Sans CJK SC', sans-serif" font-size="19" fill="#AAB9D5">B2B &amp; B2C commerce</text>
+<rect x="42" y="241" width="244" height="46" rx="23" fill="#C7A1FF" fill-opacity=".13" stroke="#C7A1FF" stroke-opacity=".46"/>
+<text x="164" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" letter-spacing="1.5" font-size="15" fill="#F4C7FA">JAVA / REACT</text>
+<g transform="translate(495,26)"><g>
+<rect x="5" y="52" width="345" height="220" rx="14" fill="#10192D" stroke="#BC9AFF" stroke-opacity=".6" stroke-width="2"/>
+<rect x="5" y="52" width="345" height="31" rx="14" fill="#2B2B52"/><rect x="5" y="70" width="345" height="13" fill="#2B2B52"/>
+<circle cx="29" cy="68" r="4" fill="#F792A9"/><circle cx="44" cy="68" r="4" fill="#E2C27C"/><circle cx="59" cy="68" r="4" fill="#5FD4C0"/>
+<rect x="26" y="104" width="134" height="143" rx="10" fill="#242B4C"/>
+<path d="M85 133h22l13 25-8 42H76l-7-42Z" fill="#A790FF"/><path d="M82 135c0-15 27-15 27 0" fill="none" stroke="#EDE6FF" stroke-width="5"/>
+<rect x="178" y="108" width="146" height="16" rx="8" fill="#A6A1D4"/><rect x="178" y="137" width="111" height="10" rx="5" fill="#6B729C"/>
+<rect x="178" y="166" width="120" height="10" rx="5" fill="#6B729C"/>
+<rect x="178" y="209" width="111" height="27" rx="13" fill="#B195FA"/>
+<rect x="274" y="22" width="73" height="63" rx="12" fill="#20193A" stroke="#D5B0FF"/>
+<path d="M293 46h34l-5 22h-25Z" stroke="#D3ADFF" stroke-width="3" fill="none"/><circle cx="301" cy="74" r="3" fill="#D3ADFF"/><circle cx="317" cy="74" r="3" fill="#D3ADFF"/>
+</g></g>
+</g></svg>
