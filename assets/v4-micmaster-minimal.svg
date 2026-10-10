@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="288" viewBox="0 0 720 288" role="img" aria-label="04 / AUDIO &amp; DEVICES">
+<rect width="720" height="288" rx="17" fill="#101116"/>
+<rect x="1" y="1" width="718" height="286" rx="16" fill="none" stroke="#272933" stroke-width="2"/>
+<path d="M35 60H685" stroke="#292C36"/><text x="35" y="39" fill="#9CA0AD" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="2.5">04 / AUDIO &amp; DEVICES</text>
+<circle cx="665" cy="33" r="4" fill="#D3B9E0"/>
+<g transform="translate(63 81)">
+<rect x="0" y="0" width="379" height="164" rx="10" fill="#181A23" stroke="#4A455D"/>
+<path d="M0 35H379" stroke="#4A455D"/><text x="20" y="24" font-size="13" font-family="monospace" fill="#A4A0BD">DSP / PARAMETRIC EQ</text>
+<g><path d="M36 55V148" stroke="#384052" stroke-width="5" stroke-linecap="round"/><path d="M36 148V91" stroke="#AF9CD0" stroke-width="5" stroke-linecap="round"/><circle cx="36" cy="91" r="6" fill="#DFD5F0"/></g><g><path d="M76 55V148" stroke="#384052" stroke-width="5" stroke-linecap="round"/><path d="M76 148V71" stroke="#AF9CD0" stroke-width="5" stroke-linecap="round"/><circle cx="76" cy="71" r="6" fill="#DFD5F0"/></g><g><path d="M116 55V148" stroke="#384052" stroke-width="5" stroke-linecap="round"/><path d="M116 148V100" stroke="#AF9CD0" stroke-width="5" stroke-linecap="round"/><circle cx="116" cy="100" r="6" fill="#DFD5F0"/></g><g><path d="M156 55V148" stroke="#384052" stroke-width="5" stroke-linecap="round"/><path d="M156 148V57" stroke="#AF9CD0" stroke-width="5" stroke-linecap="round"/><circle cx="156" cy="57" r="6" fill="#DFD5F0"/></g><g><path d="M196 55V148" stroke="#384052" stroke-width="5" stroke-linecap="round"/><path d="M196 148V84" stroke="#AF9CD0" stroke-width="5" stroke-linecap="round"/><circle cx="196" cy="84" r="6" fill="#DFD5F0"/></g><g><path d="M236 55V148" stroke="#384052" stroke-width="5" stroke-linecap="round"/><path d="M236 148V72" stroke="#AF9CD0" stroke-width="5" stroke-linecap="round"/><circle cx="236" cy="72" r="6" fill="#DFD5F0"/></g><g><path d="M276 55V148" stroke="#384052" stroke-width="5" stroke-linecap="round"/><path d="M276 148V97" stroke="#AF9CD0" stroke-width="5" stroke-linecap="round"/><circle cx="276" cy="97" r="6" fill="#DFD5F0"/></g><g><path d="M316 55V148" stroke="#384052" stroke-width="5" stroke-linecap="round"/><path d="M316 148V80" stroke="#AF9CD0" stroke-width="5" stroke-linecap="round"/><circle cx="316" cy="80" r="6" fill="#DFD5F0"/></g>
+<path d="M401 82H469" stroke="#7E7B91" stroke-width="2" stroke-dasharray="6 6"/>
+<rect x="469" y="13" width="111" height="143" rx="18" fill="#181B23" stroke="#A7A0BA" stroke-width="2"/>
+<rect x="480" y="28" width="89" height="114" rx="12" fill="#252734"/>
+<path d="M493 87L500 75L507 97L514 64L521 95L528 70L535 86L542 77L549 87" stroke="#D2BCEB" fill="none" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="525" cy="118" r="8" fill="#8F80AB"/>
+</g></svg>
