@@ -96,14 +96,20 @@
 
 ## Tech Stack
 
-采用与横幅一致的深色主题，技术领域按卡片分组。图形素材全部由此仓库托管。
-
-<p align="center"><img src="./assets/stack-backend.svg" width="100%" alt="Backend: Java 21, Spring Boot, Go, Gin, Rust, Axum, Python, FastAPI" /></p>
-<p align="center"><img src="./assets/stack-frontend.svg" width="100%" alt="Frontend: TypeScript, JavaScript, React, Vite, React Router, Tailwind CSS" /></p>
-<p align="center"><img src="./assets/stack-embedded.svg" width="100%" alt="Embedded: C, STM32, FreeRTOS, BLE GATT, UART, I2C, SPI, I2S" /></p>
-<p align="center"><img src="./assets/stack-audio.svg" width="100%" alt="Audio: Audio DSP, EQ, DRC, AEC NS, Digital Audio, I2S Audio" /></p>
-<p align="center"><img src="./assets/stack-mobile.svg" width="100%" alt="Mobile: Flutter, Dart, Android, iOS, Riverpod" /></p>
-<p align="center"><img src="./assets/stack-infra.svg" width="100%" alt="Infrastructure: MySQL, SQLite, Redis, Docker, Linux, Git" /></p>
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/stack-backend.svg" alt="Backend technology stack" width="100%"/></td>
+    <td width="50%"><img src="./assets/stack-frontend.svg" alt="Frontend technology stack" width="100%"/></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/stack-embedded.svg" alt="Embedded and IoT technology stack" width="100%"/></td>
+    <td width="50%"><img src="./assets/stack-audio.svg" alt="Audio DSP technology stack" width="100%"/></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/stack-mobile.svg" alt="Mobile development technology stack" width="100%"/></td>
+    <td width="50%"><img src="./assets/stack-infra.svg" alt="Infrastructure and data technology stack" width="100%"/></td>
+  </tr>
+</table>
 
 ## Currently Exploring
 
