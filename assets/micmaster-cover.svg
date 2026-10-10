@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-label="Hanami MicMaster project illustration">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#11162C"/><stop offset="1" stop-color="#101E32"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#CF9EFF"/><stop offset="1" stop-color="#F7C4E8"/></linearGradient>
+<pattern id="grid" width="33" height="33" patternUnits="userSpaceOnUse"><path d="M33 0H0V33" fill="none" stroke="#6374A9" stroke-opacity=".1"/></pattern>
+<clipPath id="clip"><rect width="900" height="320" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="900" height="320" fill="url(#bg)"/><rect width="900" height="320" fill="url(#grid)"/>
+<circle cx="745" cy="137" r="235" fill="#CF9EFF" opacity=".07"/>
+<rect x="1.5" y="1.5" width="897" height="317" rx="22" fill="none" stroke="#CF9EFF" stroke-opacity=".33" stroke-width="3"/>
+<rect x="42" y="43" width="12" height="12" rx="3" fill="url(#accent)"/>
+<text x="67" y="55" font-family="Arial, sans-serif" font-weight="700" font-size="16" letter-spacing="3" fill="#CF9EFF">HANAMI / PROJECT</text>
+<text x="42" y="142" font-family="Arial, sans-serif" font-weight="800" font-size="49" fill="#F2F4FF">Hanami MicMaster</text>
+<text x="43" y="190" font-family="Arial, 'Noto Sans CJK SC', sans-serif" font-size="19" fill="#AAB9D5">Wireless audio control</text>
+<rect x="42" y="241" width="244" height="46" rx="23" fill="#CF9EFF" fill-opacity=".13" stroke="#CF9EFF" stroke-opacity=".46"/>
+<text x="164" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" letter-spacing="1.5" font-size="15" fill="#F7C4E8">FLUTTER / BLE</text>
+<g transform="translate(495,26)"><g>
+<rect x="116" y="15" width="202" height="269" rx="31" fill="#0D1428" stroke="#BFA8FF" stroke-width="4"/>
+<rect x="129" y="29" width="176" height="241" rx="20" fill="#1B2140"/>
+<rect x="187" y="40" width="66" height="9" rx="4" fill="#5B628E"/>
+<text x="150" y="76" fill="#C8CEED" font-family="Arial" font-size="16">EQ CONTROL</text>
+<g stroke="#C39EF6" fill="none" stroke-width="3"><path d="M151 117v86" stroke="#63719B"/><rect x="145" y="140" width="12" height="20" rx="6" fill="#B19FFF" stroke="none"/><path d="M172 117v86" stroke="#63719B"/><rect x="166" y="172.9173345579338" width="12" height="20" rx="6" fill="#B19FFF" stroke="none"/><path d="M193 117v86" stroke="#63719B"/><rect x="187" y="144.6569602659756" width="12" height="20" rx="6" fill="#B19FFF" stroke="none"/><path d="M214 117v86" stroke="#63719B"/><rect x="208" y="107.7415061170518" width="12" height="20" rx="6" fill="#B19FFF" stroke="none"/><path d="M235 117v86" stroke="#63719B"/><rect x="229" y="130.77928855943546" width="12" height="20" rx="6" fill="#B19FFF" stroke="none"/><path d="M256 117v86" stroke="#63719B"/><rect x="250" y="170.95399923356638" width="12" height="20" rx="6" fill="#B19FFF" stroke="none"/><path d="M277 117v86" stroke="#63719B"/><rect x="271" y="153.59991001297797" width="12" height="20" rx="6" fill="#B19FFF" stroke="none"/></g>
+<path d="M147.0 225.0 L148.3 224.4 L149.7 223.8 L151.0 223.2 L152.4 222.8 L153.7 222.5 L155.1 222.3 L156.4 222.3 L157.8 222.4 L159.1 222.7 L160.5 223.1 L161.8 223.8 L163.2 224.6 L164.5 225.5 L165.8 226.6 L167.2 227.8 L168.5 228.9 L169.9 230.1 L171.2 231.1 L172.6 232.0 L173.9 232.7 L175.3 233.1 L176.6 233.2 L178.0 232.9 L179.3 232.3 L180.7 231.4 L182.0 230.0 L183.3 228.4 L184.7 226.6 L186.0 224.6 L187.4 222.5 L188.7 220.4 L190.1 218.5 L191.4 216.9 L192.8 215.6 L194.1 214.7 L195.5 214.3 L196.8 214.5 L198.2 215.2 L199.5 216.4 L200.8 218.2 L202.2 220.3 L203.5 222.8 L204.9 225.6 L206.2 228.4 L207.6 231.2 L208.9 233.7 L210.3 236.0 L211.6 237.8 L213.0 239.1 L214.3 239.9 L215.7 239.9 L217.0 239.4 L218.3 238.2 L219.7 236.5 L221.0 234.3 L222.4 231.7 L223.7 228.9 L225.1 226.0 L226.4 223.2 L227.8 220.5 L229.1 218.2 L230.5 216.2 L231.8 214.8 L233.2 213.9 L234.5 213.6 L235.8 213.9 L237.2 214.7 L238.5 216.0 L239.9 217.7 L241.2 219.6 L242.6 221.8 L243.9 224.1 L245.3 226.3 L246.6 228.4 L248.0 230.2 L249.3 231.7 L250.7 232.9 L252.0 233.7 L253.3 234.0 L254.7 234.0 L256.0 233.6 L257.4 232.9 L258.7 232.0 L260.1 230.8 L261.4 229.5 L262.8 228.2 L264.1 226.9 L265.5 225.7 L266.8 224.6 L268.2 223.6 L269.5 222.9 L270.8 222.3 L272.2 222.0 L273.5 221.8 L274.9 221.9 L276.2 222.1 L277.6 222.5 L278.9 222.9 L280.3 223.5 L281.6 224.2 L283.0 224.9 L284.3 225.6 L285.7 226.3 L287.0 227.0" stroke="#6AD9EC" stroke-width="3" fill="none"/>
+<g fill="none" stroke="#6AD9EC" stroke-width="3"><circle cx="64" cy="116" r="42"/><path d="M54 101v30a12 12 0 0 0 24 0v-30a12 12 0 0 0-24 0zm-11 27a23 23 0 0 0 46 0M66 151v18m-15 0h30"/></g>
+</g></g>
+</g></svg>
