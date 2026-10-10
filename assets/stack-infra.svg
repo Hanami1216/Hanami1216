@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="195" viewBox="0 0 1160 195" role="img" aria-label="Data &amp; Infrastructure technology stack">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10162D"/><stop offset="1" stop-color="#101F32"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#B1BEFF"/><stop offset="1" stop-color="#79E3D4"/></linearGradient>
+  <pattern id="grid" width="33" height="33" patternUnits="userSpaceOnUse"><path d="M33 0H0V33" fill="none" stroke="#8A97CC" stroke-opacity=".07"/></pattern>
+</defs>
+<rect x="1.5" y="1.5" width="1157" height="192" rx="25" fill="url(#bg)" stroke="#B1BEFF" stroke-opacity=".35" stroke-width="2"/>
+<rect x="2" y="2" width="1156" height="191" rx="24" fill="url(#grid)"/>
+<rect x="40" y="29" width="6" height="33" rx="3" fill="url(#line)"/>
+<text x="61" y="56" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="30" fill="#F2F5FF">Data &amp; Infrastructure</text>
+<text x="41" y="87" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#96A5C4">Databases / containers / developer tooling</text>
+<rect x="1042" y="29" width="76" height="33" rx="16.5" fill="#B1BEFF" fill-opacity=".1" stroke="#B1BEFF" stroke-opacity=".4"/>
+<text x="1080" y="51" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="14" fill="#B1BEFF">06 / 06</text>
+<g transform="translate(40.0 111)">
+  <rect width="107.5" height="53" rx="13" fill="#82B7EF" fill-opacity=".095" stroke="#82B7EF" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#82B7EF" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#82B7EF">My</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">MySQL</text>
+</g><g transform="translate(157.5 111)">
+  <rect width="117.8" height="53" rx="13" fill="#86C1F3" fill-opacity=".095" stroke="#86C1F3" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#86C1F3" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#86C1F3">Sq</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">SQLite</text>
+</g><g transform="translate(285.3 111)">
+  <rect width="107.5" height="53" rx="13" fill="#F38184" fill-opacity=".095" stroke="#F38184" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#F38184" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#F38184">Rd</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">Redis</text>
+</g><g transform="translate(402.8 111)">
+  <rect width="117.8" height="53" rx="13" fill="#73BDF5" fill-opacity=".095" stroke="#73BDF5" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#73BDF5" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#73BDF5">Do</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">Docker</text>
+</g><g transform="translate(530.6 111)">
+  <rect width="107.5" height="53" rx="13" fill="#E4CA80" fill-opacity=".095" stroke="#E4CA80" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#E4CA80" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#E4CA80">Li</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">Linux</text>
+</g><g transform="translate(648.1 111)">
+  <rect width="86.9" height="53" rx="13" fill="#F5997F" fill-opacity=".095" stroke="#F5997F" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#F5997F" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#F5997F">Gt</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">Git</text>
+</g>
+</svg>
