@@ -1,126 +1,112 @@
 <div align="center">
 
-<img src="./assets/hero-banner.svg" alt="Hanami · Full-Stack / Embedded / Audio DSP" width="100%" />
+<img src="./assets/v4-hero-minimal.svg" width="100%" alt="Hanami · Full-Stack, Embedded and Audio DSP" />
 
-<br/>
+<h1>贪玩の計算姬</h1>
 
-**From firmware to full-stack systems.**
+<strong>Full-Stack Engineer · Embedded Systems · Audio DSP</strong>
 
-用代码连接硬件与数字世界，构建有用、可靠且易于维护的产品。
+<p>从嵌入式固件到完整应用，从通信协议到产品交付。</p>
 
-[**技术博客**](https://hanami-docs.vercel.app/) &nbsp; · &nbsp; [**代表项目**](#selected-work) &nbsp; · &nbsp; [**技术栈**](#tech-stack) &nbsp; · &nbsp; [**GitHub 活动**](https://github.com/Hanami1216?tab=overview)
+<a href="https://hanami-docs.vercel.app/">Blog</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#selected-work">Selected Work</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#technology">Technology</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/Hanami1216?tab=overview">GitHub Activity</a>
 
 </div>
 
 ---
 
-## About Me
+## What I Build
 
-我是一名关注 **全栈工程、嵌入式系统与数字音频处理** 的开发者。喜欢在系统约束下做架构设计，也喜欢将设备驱动、通信协议、应用服务与前端交互串成完整产品。
+关注业务系统、嵌入式设备和数字音频的交汇点。重视代码质量、可维护性与资源效率，希望让软硬件协同真正转化为可用的产品。
 
-| Full-Stack Engineering | Embedded & IoT | Audio & Media |
+| Software | Hardware | Audio & Media |
 | :--- | :--- | :--- |
-| 业务平台 · API · SSR · 数据建模 · 部署 | MCU · RTOS · BLE · 通信协议 · 驱动 | Audio DSP · EQ · 无线音频 · 媒体处理 |
+| 业务系统、API、SSR、数据库与部署 | MCU、RTOS、BLE、通信协议与驱动 | 音频 DSP、实时处理、设备控制与媒体系统 |
 
-**Engineering Philosophy:** Simplicity · Performance · Reliability · Maintainability
+<sub>Engineering principles — Simplicity / Performance / Reliability / Maintainability</sub>
 
 <a id="selected-work"></a>
 
 ## Selected Work
 
-真实项目中的工程探索。项目图仅作为主题插画，不代表实际产品截图。
+<sub>部分工程仍在迭代。以下图片为技术主题示意，并非产品实际界面截图。</sub>
 
 <table>
-<tr>
-<td width="50%" valign="top">
-<img src="./assets/hanami-mall-cover.svg" alt="Hanami Mall illustration" width="100%" />
-
-### Hanami Mall
-
-**工厂 B2B / B2C 商城系统**
-
-面向工厂直销与电商场景的独立业务平台，涵盖商品管理、多语言 SSR、RFQ 询报价、订单与运营后台。采用模块化单体架构。
-
-<code>Java 21</code> <code>Spring Boot 4</code> <code>React</code> <code>MySQL</code>
-</td>
-<td width="50%" valign="top">
-<img src="./assets/platform-spider-cover.svg" alt="Platform Spider illustration" width="100%" />
-
-### Platform Spider
-
-**多平台采集与下载工作台**
-
-围绕多平台适配、账号隔离、任务调度、并行下载与 SSE 事件流设计的自动化工具链。
-
-<code>Go</code> <code>Gin</code> <code>Python</code> <code>React</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<img src="./assets/pigallery3-cover.svg" alt="PiGallery3 illustration" width="100%" />
-
-### PiGallery3
-
-**轻量级 NAS 照片 / 视频图库**
-
-目录优先的媒体管理方案：媒体索引、游标分页、虚拟图库、全文搜索、缩略图与按需视频转码。
-
-<code>Rust</code> <code>Axum</code> <code>React</code> <code>SQLite</code>
-</td>
-<td width="50%" valign="top">
-<img src="./assets/micmaster-cover.svg" alt="Hanami MicMaster illustration" width="100%" />
-
-### Hanami MicMaster
-
-**BLE 音频设备控制 App**
-
-跨平台蓝牙控制应用，围绕多硬件协议适配、设备连接、EQ、音效、灯光与状态同步实现软硬件协同。
-
-<code>Flutter</code> <code>Riverpod</code> <code>BLE</code> <code>Audio DSP</code>
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/v4-mall-minimal.svg" width="100%" alt="Hanami Mall concept illustration" />
+      <h3>Hanami Mall</h3>
+      <p>面向工厂 B2B 直销及 B2C 零售的两套独立平台，涉及多语言 SSR、商品、RFQ 询报价、订单与管理后台。后端采用模块化单体架构。</p>
+      <p><code>Java 21</code> <code>Spring Boot 4</code> <code>React</code> <code>MySQL</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/v4-spider-minimal.svg" width="100%" alt="Platform Spider concept illustration" />
+      <h3>Platform Spider</h3>
+      <p>多平台采集和媒体下载工作台。采用任务调度、账号隔离、并行下载与 SSE 事件流，串联网页工作台与 Python 采集工具。</p>
+      <p><code>Go</code> <code>Gin</code> <code>Python</code> <code>React</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/v4-gallery-minimal.svg" width="100%" alt="PiGallery3 concept illustration" />
+      <h3>PiGallery3</h3>
+      <p>面向 NAS 的照片与视频图库，采用目录优先的数据模型，结合媒体索引、游标分页、虚拟图库、缩略图生成和按需转码。</p>
+      <p><code>Rust</code> <code>Axum</code> <code>React</code> <code>SQLite</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/v4-micmaster-minimal.svg" width="100%" alt="Hanami MicMaster concept illustration" />
+      <h3>Hanami MicMaster</h3>
+      <p>跨平台 BLE 音频控制应用。围绕多协议适配、音频参数、EQ、音效、灯光与设备状态同步构建统一交互层。</p>
+      <p><code>Flutter</code> <code>Riverpod</code> <code>BLE</code> <code>Audio DSP</code></p>
+    </td>
+  </tr>
 </table>
 
 ### More Engineering
 
-| Project | Focus |
+| Engineering | Focus |
 | :--- | :--- |
-| **MVsilicon BP10xx DSP** | 蓝牙音频 SoC 固件、ADC / DAC、I²S、设备控制协议、音效处理 |
-| **MVsilicon BP26xx DSP** | 双核音频平台、音源模式、音频框架与驱动层 |
-| **[Hanami Web Serial](https://github.com/Hanami1216/hanami-web-serial-Public)** | 浏览器串口通信、EQ 参数和设备调试 |
-| **Hanami DockerCompose** | Docker Compose 环境编排与自托管实践 |
+| **MVsilicon BP10xx / BP26xx** | 蓝牙音频 SoC、RTOS、DSP、音频驱动与协议协同 |
+| **[Hanami Web Serial](https://github.com/Hanami1216/hanami-web-serial-Public)** | 基于 Web Serial 的 EQ、音量和设备参数调试 |
+| **Hanami DockerCompose** | 容器编排、自托管服务与开发环境 |
 | **[HanamiLink](https://github.com/Hanami1216/HanamiLink)** | 设备互联相关应用 |
-| **[Algorithm Practices](https://github.com/Hanami1216/Algorithm_pratices)** | 算法与数据结构实践 |
+| **[Algorithm Practices](https://github.com/Hanami1216/Algorithm_pratices)** | 算法与编程练习 |
 
-<a id="tech-stack"></a>
+<a id="technology"></a>
 
-## Tech Stack
+## Technology
+
+<sub>实际工程中使用的技术与工具。图标素材随仓库版本管理。</sub>
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/stack-backend.svg" alt="Backend technology stack" width="100%"/></td>
-    <td width="50%"><img src="./assets/stack-frontend.svg" alt="Frontend technology stack" width="100%"/></td>
+    <td width="50%"><img src="./assets/v4-stack-backend.svg" width="100%" alt="Backend technology and brand logos" /></td>
+    <td width="50%"><img src="./assets/v4-stack-frontend.svg" width="100%" alt="Frontend technology and brand logos" /></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/stack-embedded.svg" alt="Embedded and IoT technology stack" width="100%"/></td>
-    <td width="50%"><img src="./assets/stack-audio.svg" alt="Audio DSP technology stack" width="100%"/></td>
+    <td width="50%"><img src="./assets/v4-stack-embedded.svg" width="100%" alt="Embedded and IoT technology" /></td>
+    <td width="50%"><img src="./assets/v4-stack-audio.svg" width="100%" alt="Audio DSP technologies" /></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/stack-mobile.svg" alt="Mobile development technology stack" width="100%"/></td>
-    <td width="50%"><img src="./assets/stack-infra.svg" alt="Infrastructure and data technology stack" width="100%"/></td>
+    <td width="50%"><img src="./assets/v4-stack-mobile.svg" width="100%" alt="Mobile platforms and technology" /></td>
+    <td width="50%"><img src="./assets/v4-stack-infra.svg" width="100%" alt="Databases and infrastructure technology" /></td>
   </tr>
 </table>
 
-## Currently Exploring
+## Current Focus
 
-- **System Architecture** — 模块化单体、API 设计与性能优化。
-- **Embedded Audio** — 实时 DSP、自适应音频算法与无线音频设备。
-- **AI Engineering** — Agent、工具调用、开发自动化。
-- **Self-Hosting** — NAS、容器化与轻量媒体服务。
+**System design** &nbsp; / &nbsp; Java、Go、Rust、模块化架构与性能工程。
 
-## GitHub Activity
+**Embedded audio** &nbsp; / &nbsp; 数字音频处理、无线通信与软硬件协同。
 
-贡献记录和仓库动态以 [GitHub 原生统计页面](https://github.com/Hanami1216?tab=overview) 为准，不显示未经验证的外部计数器。
+**AI engineering** &nbsp; / &nbsp; Agent、自动化工作流与开发者工具。
+
+**Self-hosting** &nbsp; / &nbsp; NAS、Docker、媒体系统与轻量部署。
 
 ---
 
@@ -128,6 +114,8 @@
 
 **Build useful things. Keep them simple.**
 
-[GitHub](https://github.com/Hanami1216) · [Blog](https://hanami-docs.vercel.app/)
+<a href="https://github.com/Hanami1216">GitHub</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://hanami-docs.vercel.app/">Blog</a>
 
 </div>
