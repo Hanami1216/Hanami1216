@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="430" viewBox="0 0 1440 430" role="img" aria-label="Hanami developer profile banner">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1025"/><stop offset=".58" stop-color="#101532"/><stop offset="1" stop-color="#071B29"/></linearGradient>
+<linearGradient id="grad" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#B6A4FF"/><stop offset=".50" stop-color="#78CFF4"/><stop offset="1" stop-color="#73F2D0"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#6658D9" stop-opacity=".25"/><stop offset="1" stop-color="#6658D9" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#96A0EF" stroke-opacity=".10"/></pattern>
+<clipPath id="clip"><rect width="1440" height="430" rx="26"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1440" height="430" fill="url(#bg)"/>
+<rect width="1440" height="430" fill="url(#grid)"/>
+<circle cx="1050" cy="194" r="375" fill="url(#glow)"/>
+<circle cx="1394" cy="18" r="224" fill="#21B9C9" opacity=".045"/>
+<path d="M0 0H1440V430H0Z" fill="none" stroke="#98ABFF" stroke-opacity=".27" stroke-width="2"/>
+<g opacity=".45" fill="none" stroke="#9FA5FF" stroke-width="1.2"><path d="M750 76H900L932 43H1054"/><path d="M1110 344H1253L1291 382H1380"/><path d="M861 345H940L970 371H1116"/></g>
+<g fill="#91C2FF" opacity=".65"><circle cx="1054" cy="43" r="4"/><circle cx="1380" cy="382" r="4"/><circle cx="1116" cy="371" r="4"/></g>
+<text x="76" y="85" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="5" fill="#8ADCD6">HELLO, WORLD  //  2026</text>
+<text x="70" y="197" font-family="Arial, Helvetica, sans-serif" font-size="104" font-weight="800" letter-spacing="-5" fill="url(#grad)">Hanami.</text>
+<text x="78" y="251" font-family="Arial, 'Noto Sans CJK SC', sans-serif" font-size="30" font-weight="600" fill="#E6E9FF">贪玩の計算姬</text>
+<text x="80" y="306" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#B3BFDB">Full-Stack  /  Embedded  /  Audio DSP</text>
+<g transform="translate(79 341)" font-family="Arial, sans-serif" font-size="16" font-weight="700">
+<rect width="142" height="46" rx="23" fill="#7E72D8" fill-opacity=".18" stroke="#A99DFC" stroke-opacity=".55"/><text x="71" y="30" text-anchor="middle" fill="#D6CAFF">BUILD</text>
+<rect x="155" width="158" height="46" rx="23" fill="#20B3C1" fill-opacity=".13" stroke="#60D5E3" stroke-opacity=".55"/><text x="234" y="30" text-anchor="middle" fill="#B7F3FA">EXPLORE</text>
+<rect x="327" width="152" height="46" rx="23" fill="#55D8B5" fill-opacity=".10" stroke="#80E8C9" stroke-opacity=".5"/><text x="403" y="30" text-anchor="middle" fill="#BBF4DF">CREATE</text>
+</g>
+<g transform="translate(805 103)">
+<rect x="0" y="0" width="523" height="231" rx="19" fill="#0B1023" stroke="#888FD6" stroke-opacity=".45" stroke-width="2"/>
+<rect width="523" height="40" rx="19" fill="#1D2445"/>
+<rect y="22" width="523" height="18" fill="#1D2445"/>
+<circle cx="24" cy="20" r="5.5" fill="#F888AD"/><circle cx="45" cy="20" r="5.5" fill="#F5CA74"/><circle cx="66" cy="20" r="5.5" fill="#67D9C6"/>
+<text x="375" y="26" font-family="monospace" font-size="12" fill="#929EC9">signal / pipeline</text>
+<g fill="none" stroke-linecap="round">
+<path d="M25.0 140.2 L29.5 135.0 L34.1 131.7 L38.6 131.2 L43.2 133.5 L47.7 138.4 L52.2 144.8 L56.8 151.5 L61.3 156.8 L65.8 159.6 L70.4 158.9 L74.9 154.5 L79.5 147.2 L84.0 138.5 L88.5 130.2 L93.1 124.5 L97.6 122.9 L102.2 126.3 L106.7 134.3 L111.2 145.4 L115.8 157.3 L120.3 167.0 L124.8 172.0 L129.4 170.7 L133.9 162.8 L138.5 149.8 L143.0 134.3 L147.5 120.0 L152.1 110.3 L156.6 108.1 L161.2 114.3 L165.7 128.0 L170.2 146.3 L174.8 165.2 L179.3 180.1 L183.8 187.2 L188.4 184.4 L192.9 172.0 L197.5 152.4 L202.0 130.1 L206.5 110.2 L211.1 97.5 L215.6 95.4 L220.2 104.5 L224.7 123.1 L229.2 147.0 L233.8 170.6 L238.3 188.5 L242.8 196.3 L247.4 192.1 L251.9 176.7 L256.5 153.7 L261.0 128.3 L265.5 106.6 L270.1 93.6 L274.6 92.2 L279.2 102.7 L283.7 122.5 L288.2 147.0 L292.8 170.4 L297.3 187.3 L301.8 194.0 L306.4 189.1 L310.9 174.1 L315.5 152.7 L320.0 130.1 L324.5 111.4 L329.1 100.8 L333.6 100.4 L338.2 109.9 L342.7 126.6 L347.2 146.4 L351.8 164.6 L356.3 177.2 L360.8 181.6 L365.4 177.3 L369.9 165.8 L374.5 150.2 L379.0 134.3 L383.5 121.7 L388.1 115.0 L392.6 115.2 L397.2 121.9 L401.7 132.9 L406.2 145.5 L410.8 156.7 L415.3 164.1 L419.8 166.4 L424.4 163.6 L428.9 156.6 L433.5 147.6 L438.0 138.5 L442.5 131.5 L447.1 127.8 L451.6 128.0 L456.2 131.7 L460.7 137.8 L465.2 144.8 L469.8 151.2 L474.3 155.7 L478.8 157.3 L483.4 155.9 L487.9 152.0 L492.5 146.3 L497.0 140.2" stroke="#B58AFF" stroke-width="3.5"/>
+<path d="M25.0 136.3 L29.5 138.0 L34.1 141.1 L38.6 144.9 L43.2 148.6 L47.7 151.5 L52.2 152.7 L56.8 152.0 L61.3 149.4 L65.8 145.3 L70.4 140.5 L74.9 136.2 L79.5 133.3 L84.0 132.7 L88.5 134.8 L93.1 139.3 L97.6 145.4 L102.2 151.8 L106.7 156.9 L111.2 159.3 L115.8 158.3 L120.3 153.7 L124.8 146.3 L129.4 137.8 L133.9 130.0 L138.5 124.9 L143.0 124.1 L147.5 127.9 L152.1 136.0 L156.6 146.5 L161.2 157.1 L165.7 165.3 L170.2 168.9 L174.8 166.8 L179.3 159.2 L183.8 147.6 L188.4 134.5 L192.9 123.1 L197.5 116.1 L202.0 115.4 L206.5 121.4 L211.1 132.9 L215.6 147.3 L220.2 161.4 L224.7 171.8 L229.2 175.9 L233.8 172.7 L238.3 162.8 L242.8 148.3 L247.4 132.8 L251.9 119.6 L256.5 112.1 L261.0 111.9 L265.5 119.0 L270.1 131.9 L274.6 147.5 L279.2 162.2 L283.7 172.5 L288.2 176.2 L292.8 172.4 L297.3 162.3 L301.8 148.1 L306.4 133.4 L310.9 121.5 L315.5 115.1 L320.0 115.4 L324.5 122.2 L329.1 133.7 L333.6 147.0 L338.2 159.0 L342.7 167.1 L347.2 169.6 L351.8 166.2 L356.3 158.0 L360.8 147.1 L365.4 136.2 L369.9 127.7 L374.5 123.5 L379.0 124.1 L383.5 129.1 L388.1 137.1 L392.6 146.0 L397.2 153.7 L401.7 158.7 L406.2 160.0 L410.8 157.6 L415.3 152.5 L419.8 145.9 L424.4 139.4 L428.9 134.6 L433.5 132.2 L438.0 132.7 L442.5 135.6 L447.1 140.1 L451.6 145.1 L456.2 149.4 L460.7 152.2 L465.2 153.0 L469.8 151.8 L474.3 148.9 L478.8 145.1 L483.4 141.2 L487.9 138.1 L492.5 136.3 L497.0 136.3" stroke="#54D0E5" stroke-width="2.7" opacity=".9"/>
+<path d="M25.0 142.3 L29.5 140.0 L34.1 140.0 L38.6 142.3 L43.2 145.8 L47.7 148.3 L52.2 148.4 L56.8 145.9 L61.3 142.0 L65.8 139.1 L70.4 138.9 L74.9 141.8 L79.5 146.4 L84.0 149.9 L88.5 150.1 L93.1 146.6 L97.6 141.2 L102.2 136.9 L106.7 136.6 L111.2 140.9 L115.8 147.4 L120.3 152.5 L124.8 152.8 L129.4 147.7 L133.9 140.0 L138.5 134.0 L143.0 133.7 L147.5 139.6 L152.1 148.7 L156.6 155.5 L161.2 155.8 L165.7 149.0 L170.2 138.7 L174.8 131.1 L179.3 130.8 L183.8 138.5 L188.4 149.9 L192.9 158.3 L197.5 158.5 L202.0 150.0 L206.5 137.7 L211.1 128.7 L215.6 128.5 L220.2 137.6 L224.7 150.7 L229.2 160.1 L233.8 160.2 L238.3 150.7 L242.8 137.1 L247.4 127.4 L251.9 127.5 L256.5 137.2 L261.0 151.0 L265.5 160.7 L270.1 160.5 L274.6 150.7 L279.2 137.1 L283.7 127.6 L288.2 127.8 L292.8 137.5 L297.3 150.7 L301.8 159.8 L306.4 159.5 L310.9 150.2 L315.5 137.7 L320.0 129.2 L324.5 129.5 L329.1 138.2 L333.6 149.9 L338.2 157.6 L342.7 157.2 L347.2 149.3 L351.8 138.7 L356.3 131.8 L360.8 132.2 L365.4 139.3 L369.9 148.7 L374.5 154.7 L379.0 154.3 L383.5 148.0 L388.1 140.0 L392.6 134.8 L397.2 135.2 L401.7 140.6 L406.2 147.4 L410.8 151.7 L415.3 151.4 L419.8 146.9 L424.4 141.2 L428.9 137.6 L433.5 137.9 L438.0 141.6 L442.5 146.4 L447.1 149.4 L451.6 149.1 L456.2 146.0 L460.7 142.0 L465.2 139.4 L469.8 139.6 L474.3 142.3 L478.8 145.8 L483.4 148.1 L487.9 148.0 L492.5 145.6 L497.0 142.3" stroke="#81EFCD" stroke-width="1.7" opacity=".68"/>
+</g>
+<path d="M26 200H496" stroke="#6973A7" stroke-dasharray="4 9" opacity=".4"/>
+</g>
+</g></svg>
