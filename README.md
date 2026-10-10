@@ -96,14 +96,14 @@
 
 ## Tech Stack
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Backend** | `Java 21` `Spring Boot` `Go` `Gin` `Rust` `Axum` `Python` `FastAPI` |
-| **Frontend** | `TypeScript` `React` `Vite` `React Router` `Tailwind CSS` |
-| **Mobile** | `Flutter` `Dart` `Android` `iOS` |
-| **Embedded & IoT** | `C` `STM32` `FreeRTOS` `BLE / GATT` `UART` `I²C` `SPI` `I²S` |
-| **Audio** | `DSP` `EQ` `DRC` `AEC / NS` `Digital Audio` |
-| **Data & DevOps** | `MySQL` `SQLite` `Redis` `Docker` `Linux` `Git` |
+采用与横幅一致的深色主题，技术领域按卡片分组。图形素材全部由此仓库托管。
+
+<p align="center"><img src="./assets/stack-backend.svg" width="100%" alt="Backend: Java 21, Spring Boot, Go, Gin, Rust, Axum, Python, FastAPI" /></p>
+<p align="center"><img src="./assets/stack-frontend.svg" width="100%" alt="Frontend: TypeScript, JavaScript, React, Vite, React Router, Tailwind CSS" /></p>
+<p align="center"><img src="./assets/stack-embedded.svg" width="100%" alt="Embedded: C, STM32, FreeRTOS, BLE GATT, UART, I2C, SPI, I2S" /></p>
+<p align="center"><img src="./assets/stack-audio.svg" width="100%" alt="Audio: Audio DSP, EQ, DRC, AEC NS, Digital Audio, I2S Audio" /></p>
+<p align="center"><img src="./assets/stack-mobile.svg" width="100%" alt="Mobile: Flutter, Dart, Android, iOS, Riverpod" /></p>
+<p align="center"><img src="./assets/stack-infra.svg" width="100%" alt="Infrastructure: MySQL, SQLite, Redis, Docker, Linux, Git" /></p>
 
 ## Currently Exploring
 
