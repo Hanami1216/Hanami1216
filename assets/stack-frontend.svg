@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="195" viewBox="0 0 1160 195" role="img" aria-label="Frontend technology stack">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10162D"/><stop offset="1" stop-color="#101F32"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#A795F6"/><stop offset="1" stop-color="#79E3D4"/></linearGradient>
+  <pattern id="grid" width="33" height="33" patternUnits="userSpaceOnUse"><path d="M33 0H0V33" fill="none" stroke="#8A97CC" stroke-opacity=".07"/></pattern>
+</defs>
+<rect x="1.5" y="1.5" width="1157" height="192" rx="25" fill="url(#bg)" stroke="#A795F6" stroke-opacity=".35" stroke-width="2"/>
+<rect x="2" y="2" width="1156" height="191" rx="24" fill="url(#grid)"/>
+<rect x="40" y="29" width="6" height="33" rx="3" fill="url(#line)"/>
+<text x="61" y="56" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="30" fill="#F2F5FF">Frontend</text>
+<text x="41" y="87" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#96A5C4">Web interfaces / tooling / rendering</text>
+<rect x="1042" y="29" width="76" height="33" rx="16.5" fill="#A795F6" fill-opacity=".1" stroke="#A795F6" stroke-opacity=".4"/>
+<text x="1080" y="51" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="14" fill="#A795F6">02 / 06</text>
+<g transform="translate(40.0 111)">
+  <rect width="159.0" height="53" rx="13" fill="#68A8F7" fill-opacity=".095" stroke="#68A8F7" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#68A8F7" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#68A8F7">TS</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">TypeScript</text>
+</g><g transform="translate(209.0 111)">
+  <rect width="159.0" height="53" rx="13" fill="#F4D65C" fill-opacity=".095" stroke="#F4D65C" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#F4D65C" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#F4D65C">JS</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">JavaScript</text>
+</g><g transform="translate(378.0 111)">
+  <rect width="107.5" height="53" rx="13" fill="#63D2EE" fill-opacity=".095" stroke="#63D2EE" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#63D2EE" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#63D2EE">Re</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">React</text>
+</g><g transform="translate(495.5 111)">
+  <rect width="97.2" height="53" rx="13" fill="#B699FF" fill-opacity=".095" stroke="#B699FF" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#B699FF" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#B699FF">Vi</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">Vite</text>
+</g><g transform="translate(602.7 111)">
+  <rect width="179.6" height="53" rx="13" fill="#F28F9B" fill-opacity=".095" stroke="#F28F9B" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#F28F9B" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#F28F9B">RR</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">React Router</text>
+</g><g transform="translate(792.3 111)">
+  <rect width="179.6" height="53" rx="13" fill="#75DFE8" fill-opacity=".095" stroke="#75DFE8" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#75DFE8" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#75DFE8">Tw</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">Tailwind CSS</text>
+</g>
+</svg>
