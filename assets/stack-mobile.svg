@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="195" viewBox="0 0 1160 195" role="img" aria-label="Mobile technology stack">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10162D"/><stop offset="1" stop-color="#101F32"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#83CCF8"/><stop offset="1" stop-color="#79E3D4"/></linearGradient>
+  <pattern id="grid" width="33" height="33" patternUnits="userSpaceOnUse"><path d="M33 0H0V33" fill="none" stroke="#8A97CC" stroke-opacity=".07"/></pattern>
+</defs>
+<rect x="1.5" y="1.5" width="1157" height="192" rx="25" fill="url(#bg)" stroke="#83CCF8" stroke-opacity=".35" stroke-width="2"/>
+<rect x="2" y="2" width="1156" height="191" rx="24" fill="url(#grid)"/>
+<rect x="40" y="29" width="6" height="33" rx="3" fill="url(#line)"/>
+<text x="61" y="56" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="30" fill="#F2F5FF">Mobile</text>
+<text x="41" y="87" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#96A5C4">Cross-platform applications / device control</text>
+<rect x="1042" y="29" width="76" height="33" rx="16.5" fill="#83CCF8" fill-opacity=".1" stroke="#83CCF8" stroke-opacity=".4"/>
+<text x="1080" y="51" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="14" fill="#83CCF8">05 / 06</text>
+<g transform="translate(40.0 111)">
+  <rect width="128.1" height="53" rx="13" fill="#6EBDF6" fill-opacity=".095" stroke="#6EBDF6" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#6EBDF6" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#6EBDF6">Fl</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">Flutter</text>
+</g><g transform="translate(178.1 111)">
+  <rect width="97.2" height="53" rx="13" fill="#4CC4C7" fill-opacity=".095" stroke="#4CC4C7" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#4CC4C7" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#4CC4C7">Da</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">Dart</text>
+</g><g transform="translate(285.3 111)">
+  <rect width="128.1" height="53" rx="13" fill="#8ED86B" fill-opacity=".095" stroke="#8ED86B" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#8ED86B" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#8ED86B">An</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">Android</text>
+</g><g transform="translate(423.4 111)">
+  <rect width="86.9" height="53" rx="13" fill="#CDD7EA" fill-opacity=".095" stroke="#CDD7EA" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#CDD7EA" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#CDD7EA">iO</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">iOS</text>
+</g><g transform="translate(520.3 111)">
+  <rect width="138.4" height="53" rx="13" fill="#BD9BFC" fill-opacity=".095" stroke="#BD9BFC" stroke-opacity=".35"/>
+  <rect x="10" y="10" width="33" height="33" rx="9" fill="#BD9BFC" fill-opacity=".19"/>
+  <text x="26.5" y="31" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="13" fill="#BD9BFC">Rv</text>
+  <text x="51" y="32.5" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="17.2" fill="#E5EDFF">Riverpod</text>
+</g>
+</svg>
