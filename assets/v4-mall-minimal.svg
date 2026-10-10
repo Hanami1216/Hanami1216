@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="288" viewBox="0 0 720 288" role="img" aria-label="01 / COMMERCE &amp; PLATFORMS">
+<rect width="720" height="288" rx="17" fill="#101116"/>
+<rect x="1" y="1" width="718" height="286" rx="16" fill="none" stroke="#272933" stroke-width="2"/>
+<path d="M35 60H685" stroke="#292C36"/><text x="35" y="39" fill="#9CA0AD" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="2.5">01 / COMMERCE &amp; PLATFORMS</text>
+<circle cx="665" cy="33" r="4" fill="#B3ABEF"/>
+<g transform="translate(64 77)">
+<rect x="0" y="0" width="370" height="163" rx="9" fill="#161920" stroke="#3A3D48"/>
+<path d="M0 29H370" stroke="#343944"/><circle cx="17" cy="15" r="4" fill="#858797"/><circle cx="32" cy="15" r="4" fill="#858797"/>
+<rect x="17" y="46" width="91" height="101" rx="6" fill="#222733"/>
+<path d="M45 101L51 74H73L79 101Z" fill="none" stroke="#C6C0EB" stroke-width="3"/><path d="M54 74C54 60 70 60 70 74" fill="none" stroke="#C6C0EB" stroke-width="3"/>
+<rect x="126" y="46" width="91" height="101" rx="6" fill="#222733"/><rect x="149" y="68" width="45" height="48" rx="6" fill="#5D617B"/><path d="M149 122H191" stroke="#73778D" stroke-width="4"/>
+<rect x="235" y="46" width="119" height="101" rx="6" fill="#222733"/><path d="M249 69H336 M249 86H325" stroke="#888C9E" stroke-width="5"/><rect x="249" y="110" width="80" height="22" rx="5" fill="#ACA5EC"/>
+<path d="M391 81H455" stroke="#9294B9" stroke-width="2" stroke-dasharray="6 7"/>
+<rect x="461" y="31" width="132" height="105" rx="10" fill="#191B25" stroke="#59596F"/><path d="M480 54H561M480 74H575M480 94H539" stroke="#A5A6B9" stroke-width="5" stroke-linecap="round"/>
+<circle cx="561" cy="124" r="9" fill="#B7AEEF"/>
+</g></svg>
